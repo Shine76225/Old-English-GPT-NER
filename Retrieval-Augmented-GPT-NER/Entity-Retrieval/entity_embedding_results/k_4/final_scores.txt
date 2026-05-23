@@ -1,0 +1,20 @@
+Entity-Level Embedding Retrieval Results | k = 4
+
+Fold-wise Results
+ k  fold  rows  datastore_entities  tp  fp  fn  precision   recall       f1
+ 4     1   186                1712 242  26  30   0.902985 0.889706 0.896296
+ 4     2   186                1714 217  16  31   0.931330 0.875000 0.902287
+ 4     3   186                1726 201  24  30   0.893333 0.870130 0.881579
+ 4     4   186                1704 219  21  29   0.912500 0.883065 0.897541
+ 4     5   185                1708 227  19  23   0.922764 0.908000 0.915323
+
+Average Across 5 Folds
+Macro Precision: 0.9126
+Macro Recall   : 0.8852
+Macro F1       : 0.8986
+
+Overall Micro Score
+TP=1106, FP=106, FN=143
+Micro Precision: 0.9125
+Micro Recall   : 0.8855
+Micro F1       : 0.8988

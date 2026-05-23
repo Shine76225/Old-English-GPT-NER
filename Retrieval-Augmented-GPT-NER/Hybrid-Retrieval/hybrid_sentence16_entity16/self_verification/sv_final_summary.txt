@@ -1,0 +1,22 @@
+Self-Verification Results for All 5 Folds
+
+Fold-wise Results
+ fold  tp  fp  fn  precision   recall       f1
+    1 252   6  20   0.976744 0.926471 0.950943
+    2 226   9  22   0.961702 0.911290 0.935818
+    3 208   6  23   0.971963 0.900433 0.934831
+    4 230   8  18   0.966387 0.927419 0.946502
+    5 234   8  16   0.966942 0.936000 0.951220
+
+Macro Average
+Precision: 0.968748
+Recall: 0.920323
+F1: 0.943863
+
+Micro Average
+TP: 1150
+FP: 37
+FN: 99
+Precision: 0.968829
+Recall: 0.920737
+F1: 0.944171

@@ -1,0 +1,18 @@
+Fold-wise Results
+ fold  rows  tp  fp  fn  precision   recall       f1
+    1   186 225  61  47   0.786713 0.827206 0.806452
+    2   186 211  59  37   0.781481 0.850806 0.814672
+    3   186 200  59  31   0.772201 0.865801 0.816327
+    4   186 209  62  39   0.771218 0.842742 0.805395
+    5   185 210  60  40   0.777778 0.840000 0.807692
+
+Average Across 5 Folds
+Macro Precision: 0.7779
+Macro Recall   : 0.8453
+Macro F1       : 0.8101
+
+Overall Micro Score
+TP=1055, FP=301, FN=194
+Micro Precision: 0.7780
+Micro Recall   : 0.8447
+Micro F1       : 0.8100

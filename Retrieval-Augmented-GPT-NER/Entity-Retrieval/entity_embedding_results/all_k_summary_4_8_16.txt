@@ -1,0 +1,6 @@
+Final Summary for k = 4, 8, 16
+
+ k  macro_precision  macro_recall  macro_f1  micro_tp  micro_fp  micro_fn  micro_precision  micro_recall  micro_f1
+ 4         0.912583      0.885180  0.898605      1106       106       143         0.912541      0.885508  0.898822
+ 8         0.915028      0.931210  0.923018      1163       108        86         0.915028      0.931145  0.923016
+16         0.908709      0.935563  0.921689      1169       119        80         0.907609      0.935949  0.921561

@@ -1,0 +1,7 @@
+Final Summary for All K
+
+ k  macro_precision  macro_recall  macro_f1  micro_tp  micro_fp  micro_fn  micro_precision  micro_recall  micro_f1
+ 4           0.9031        0.8874    0.8951      1109       119       140           0.9031        0.8879    0.8954
+ 8           0.9121        0.9321    0.9219      1164       112        85           0.9122        0.9319    0.9220
+16           0.9110        0.9424    0.9262      1177       116        72           0.9103        0.9424    0.9260
+32           0.9142        0.9485    0.9307      1185       113        64           0.9129        0.9488    0.9305

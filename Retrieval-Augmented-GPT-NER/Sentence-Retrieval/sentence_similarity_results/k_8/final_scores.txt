@@ -1,0 +1,20 @@
+Sentence Similarity Retrieval Results | k = 8
+
+Fold-wise Results
+ k  fold  rows  tp  fp  fn  precision   recall       f1
+ 8     1   186 253  24  19   0.913357 0.930147 0.921676
+ 8     2   186 226  24  22   0.904000 0.911290 0.907631
+ 8     3   186 217  25  14   0.896694 0.939394 0.917548
+ 8     4   186 233  22  15   0.913725 0.939516 0.926441
+ 8     5   185 235  17  15   0.932540 0.940000 0.936255
+
+Average Across 5 Folds
+Macro Precision: 0.9121
+Macro Recall   : 0.9321
+Macro F1       : 0.9219
+
+Overall Micro Score
+TP=1164, FP=112, FN=85
+Micro Precision: 0.9122
+Micro Recall   : 0.9319
+Micro F1       : 0.9220

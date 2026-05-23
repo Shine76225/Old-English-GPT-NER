@@ -1,0 +1,4 @@
+Final Summary for k = 32
+
+ k  macro_precision  macro_recall  macro_f1  micro_tp  micro_fp  micro_fn  micro_precision  micro_recall  micro_f1
+32         0.923524      0.938895  0.931101      1173        97        76         0.923622      0.939151  0.931322

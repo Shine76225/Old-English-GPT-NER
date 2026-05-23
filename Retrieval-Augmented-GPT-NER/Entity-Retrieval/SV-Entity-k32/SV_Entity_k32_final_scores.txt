@@ -1,0 +1,20 @@
+Self-Verification Results for Entity-Level Retrieval (k=32)
+
+Fold-wise Results
+ fold  tp  fp  fn  precision   recall       f1
+    1 254   5  18   0.980695 0.933824 0.956685
+    2 219   9  29   0.960526 0.883065 0.920168
+    3 214   6  17   0.972727 0.926407 0.949002
+    4 231   8  17   0.966527 0.931452 0.948665
+    5 230  10  20   0.958333 0.920000 0.938776
+
+Macro Scores
+Macro Precision: 0.9678
+Macro Recall   : 0.9189
+Macro F1       : 0.9427
+
+Micro Scores
+TP=1148, FP=38, FN=101
+Micro Precision: 0.9680
+Micro Recall   : 0.9191
+Micro F1       : 0.9429
